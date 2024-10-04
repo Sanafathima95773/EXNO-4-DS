@@ -24,8 +24,8 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       
-REG NO : 212223240100
+NAME : Sana Fathima H 
+REG NO : 212223240145
 ```
 ```python
 import pandas as pd
@@ -196,4 +196,4 @@ print(f"P-Value: {p}")
 ![image](https://github.com/Yamunaasri/EXNO-4-DS/assets/115707860/6adc4da7-421c-458f-9ec6-f6158aa6f731)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus, Feature selection and Feature scaling has been used on thegiven dataset.

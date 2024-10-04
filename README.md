@@ -24,6 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+```
 NAME : Sana Fathima H 
 REG NO : 212223240145
 ```

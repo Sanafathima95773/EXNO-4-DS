@@ -27,6 +27,7 @@ The feature selection techniques used are:
 NAME : Sana Fathima H 
 REG NO : 212223240145
 ```
+python
 ```
 import pandas as pd
 import numpy as np
